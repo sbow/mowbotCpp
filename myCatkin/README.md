@@ -20,3 +20,4 @@
 * Code for clarity, not re-use, i'm not microsoft
 * Minimal syntax / class use / templates, see above
 * Experimental parameters, not simplistic physical models - except when all u have is simplistic models
+* Zoot alure !
